@@ -1,5 +1,5 @@
 # opencv-background-project
-Opencv kütüphanesi kullanılarak görseldeki yaprak nesnelerinin ve arka planın rengi siyaha çevrilip, sadece kivi objelerinin rengi beyaz yapılıp, kivi objeleri görselde ön plana çıkarılmıştır.
+OpenCV kütüphanesi kullanılarak görseldeki yaprak nesnelerinin ve arka planın rengi siyaha çevrilip, sadece kivi objelerinin rengi beyaz yapılıp, kivi objeleri görselde ön plana çıkarılmıştır.
 
 default-image <img src="https://github.com/mustafaatakli/opencv-background-project/blob/main/image.jpeg" width="auto">    
 
